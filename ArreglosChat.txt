@@ -1,0 +1,2 @@
+No acepta >_<
+evitar mensajes vacios(pulsar enter)
